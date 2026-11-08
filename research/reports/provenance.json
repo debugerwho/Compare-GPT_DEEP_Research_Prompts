@@ -1,0 +1,20 @@
+{
+  "retrieved_on": "2026-11-08",
+  "audited_against_prompt_commit": "9aa9192f6b44f9dbff1456711f5aa47715dc3fcf",
+  "files": [
+    {
+      "file": "A_Agentic_Demand_Discovery.pdf",
+      "drive_url": "https://drive.google.com/file/d/1LiO0c92dRygeLHX0Y53vYQSLJf1PRQJ7/view",
+      "pages": 19,
+      "bytes": 441392,
+      "sha256": "74d3d33f00967929e7f7de94adafcb368771e325bf8bdb382bd7e01edd7aceb5"
+    },
+    {
+      "file": "B_Comparative_Channel_Opportunities.pdf",
+      "drive_url": "https://drive.google.com/file/d/1VUj1P8W48x2dUHw9f82Ke2yn0P19nm51/view",
+      "pages": 13,
+      "bytes": 307282,
+      "sha256": "61711e46556d3554accb7d4c09f960f710dabd1e8b86e4b9fb0b223deea6cd48"
+    }
+  ]
+}
