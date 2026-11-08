@@ -1,0 +1,93 @@
+{
+  "checked_on": "2026-11-08",
+  "source": {
+    "drive_file_id": "1jqIlDGn1-UcnBwD6gw3BOnCkoPaUS1e7",
+    "sha256": "07129581b9bef57414ab195a166689dd39dabeb396731f7247b8880e5523de41",
+    "bytes": 1734527,
+    "posts": 849,
+    "text_posts": 701,
+    "photo_references": 487,
+    "photo_only_posts": 121,
+    "first_date": "01.07.2026 21:11:01 UTC-08:00",
+    "last_date": "08.11.2026 06:16:58 UTC-08:00",
+    "date_note": "Исходное отображение Telegram export UTC-08:00 сохранено, не локальная зона владельца и не дата проверки."
+  },
+  "photos": [
+    {
+      "file_name": "photo_1865@02-07-2026_23-10-57.jpg",
+      "drive_id": "1wbrLA4rBS6a9ORKi_LxuO2QXLw1_EMq7",
+      "source_post_id": "message3404",
+      "date": "02.07.2026 23:10:57 UTC-08:00",
+      "sha256": "b4265c2a943575397aa95e45580b9e259468b67da8eee0977f5ff759ad7613c9",
+      "bytes": 107426,
+      "review": "Визуально просмотрено",
+      "finding": "Чек-лист issue/dependencies/ready for agent: полезная процедура постановки задач, не подтверждение спроса."
+    },
+    {
+      "file_name": "photo_2122@16-09-2026_05-14-58.jpg",
+      "drive_id": "12MIYMlN19BZU6ysO5hTPC0Rx0DcsLyyL",
+      "source_post_id": "message3872",
+      "date": "16.09.2026 05:14:58 UTC-08:00",
+      "sha256": "8b68f0f2f44ca7848246431ead464b5420d214995a407e389fd734fd3f645e48",
+      "bytes": 59190,
+      "review": "Визуально просмотрено",
+      "finding": "OpenResearch splash/platforms. Windows beta и Git for Windows согласуются с README."
+    },
+    {
+      "file_name": "photo_2133@21-09-2026_03-12-58.jpg",
+      "drive_id": "164jOxScdceJEEwfD3i3wMo2AzWttsDBh",
+      "source_post_id": "message3904",
+      "date": "21.09.2026 03:12:58 UTC-08:00",
+      "sha256": "119b0952643ad4fdbf27a0b37beaa18a35b3aae39e428860559ecb6bdc51a8f5",
+      "bytes": 98996,
+      "review": "Визуально просмотрено",
+      "finding": "Главная GitHub ZCode. Не доказательство сетевой отправки workspace/.git или исправления."
+    },
+    {
+      "file_name": "photo_2142@22-09-2026_01-59-58.jpg",
+      "drive_id": "1WI6atjIUObECav_WFJO2aWAS0W_IpN1y",
+      "source_post_id": "message3919",
+      "date": "22.09.2026 01:59:58 UTC-08:00",
+      "sha256": "ca602a1387a0ecbcca38e1ec6216eb70744b97ee3a544c9a0581d3f66d7e8d84",
+      "bytes": 60489,
+      "review": "Визуально просмотрено",
+      "finding": "Jev: 27/30, 330ms; Haiku 24/30,1241ms; Sonnet/Opus30/30,2227/2421ms. Малый демонстрационный тест, не независимое измерение."
+    },
+    {
+      "file_name": "photo_2220@11-10-2026_00-09-58.jpg",
+      "drive_id": "1mnsgc4hhPMT0oiMMwVg8h924TdoXgZtS",
+      "source_post_id": "message4073",
+      "date": "11.10.2026 00:09:58 UTC-08:00",
+      "sha256": "70c79ffceec7a0f8186c631b85e4f75a4e5efddacb3400fdc22266f78ad85844",
+      "bytes": 139061,
+      "review": "Визуально просмотрено",
+      "finding": "Схема выбора из 15 motion repos: website / own footage / launch / short. Разделены задачи, а не назначена одна лучшая студия."
+    },
+    {
+      "file_name": "photo_2247@17-10-2026_21-01-01.jpg",
+      "drive_id": "1uJXEaqmdh6f6I5xiKUDLN8fu6rikinLW",
+      "source_post_id": "message4122",
+      "date": "17.10.2026 21:01:01 UTC-08:00",
+      "sha256": "92098e28ae0537fb6d4f620f9ae18b5edc4f6d588351e48085310f54b79dd217",
+      "bytes": 111484,
+      "review": "Визуально просмотрено",
+      "finding": "English sound-pass prompt: beat/loudness/QC. Изображение при4122 не подтверждает API Openverse/квоты/библиотеку."
+    },
+    {
+      "file_name": "photo_2314@01-11-2026_20-02-47.jpg",
+      "drive_id": "1c62q3aJ_IDoEjUyeFlWHx7fvQ49gUFrY",
+      "source_post_id": "message4239",
+      "date": "01.11.2026 20:02:47 UTC-08:00",
+      "sha256": "50f8f0ce29328f7c4a485185d0ddd93fbf1157effdbc3cc312f00299a9d22271",
+      "bytes": 122635,
+      "review": "Визуально просмотрено",
+      "finding": "Интерфейс HackerTube/рекомендации и категории. Не статистика нынешнего спроса."
+    }
+  ],
+  "limitations": [
+    "849 сообщения проиндексированы автоматически; не заявляется независимый ручной аудит каждого сообщения.",
+    "121 сообщение только с фотографиями не просмотрено целиком; все487 image references не проверены визуально.",
+    "Отсутствующие exported videos не просмотрены; опубликованные посты и screenshots не доказательство runtime.",
+    "Сырые HTML, full upstream README и изображения в Git не копировались."
+  ]
+}

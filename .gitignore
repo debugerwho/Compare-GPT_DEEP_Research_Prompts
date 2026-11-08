@@ -1,0 +1,8 @@
+# Raw connector downloads and local account data are not deliverables.
+/google_drive/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example

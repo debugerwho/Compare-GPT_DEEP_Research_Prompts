@@ -1,0 +1,58 @@
+[
+  {
+    "repo": "dair-ai/dair-academy-plugins",
+    "path": "plugins/x-agent-intelligence/README.md",
+    "blob_sha": "720f30fe821a46599b415b69ce7484a16768c38b",
+    "url": "https://github.com/dair-ai/dair-academy-plugins/blob/main/plugins/x-agent-intelligence/README.md",
+    "checked_on": "2026-11-08",
+    "method": "GitHub contents API + чтение файла; runtime не запускался"
+  },
+  {
+    "repo": "dair-ai/dair-academy-plugins",
+    "path": "plugins/youtube-notetaker/README.md",
+    "blob_sha": "a155cf56baadb343e3b673f2d23cf73200d75aa7",
+    "url": "https://github.com/dair-ai/dair-academy-plugins/blob/main/plugins/youtube-notetaker/README.md",
+    "checked_on": "2026-11-08",
+    "method": "GitHub contents API + чтение файла; runtime не запускался"
+  },
+  {
+    "repo": "dair-ai/dair-academy-plugins",
+    "path": "plugins/wiki-builder/README.md",
+    "blob_sha": "2006f1c69a9c56ff3a7a9c73f2036b63318f4646",
+    "url": "https://github.com/dair-ai/dair-academy-plugins/blob/main/plugins/wiki-builder/README.md",
+    "checked_on": "2026-11-08",
+    "method": "GitHub contents API + чтение файла; runtime не запускался"
+  },
+  {
+    "repo": "dair-ai/dair-academy-plugins",
+    "path": "plugins/survey-generator/README.md",
+    "blob_sha": "5b9100ce72e6d138b5ce24bd3f9c7448af6ff33c",
+    "url": "https://github.com/dair-ai/dair-academy-plugins/blob/main/plugins/survey-generator/README.md",
+    "checked_on": "2026-11-08",
+    "method": "GitHub contents API + чтение файла; runtime не запускался"
+  },
+  {
+    "repo": "openai/skills",
+    "path": "skills/.curated/define-goal/SKILL.md",
+    "blob_sha": "87f111bd700e0d993465f7ac741847b5daee57d6",
+    "url": "https://github.com/openai/skills/blob/main/skills/.curated/define-goal/SKILL.md",
+    "checked_on": "2026-11-08",
+    "method": "GitHub contents API + чтение файла; runtime не запускался"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "path": "services/site/src/routes/product/browse.tsx",
+    "blob_sha": "7783a64eba8009b4a396112add5d74fae113a21f",
+    "url": "https://github.com/anomalyco/opencode/blob/dev/services/site/src/routes/product/browse.tsx",
+    "checked_on": "2026-11-08",
+    "method": "GitHub contents API + чтение файла; runtime не запускался"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "path": "services/site/test/browse.test.ts",
+    "blob_sha": "d7ae6b3597ac1761d31f1a7bb8a462eb6e3320dc",
+    "url": "https://github.com/anomalyco/opencode/blob/dev/services/site/test/browse.test.ts",
+    "checked_on": "2026-11-08",
+    "method": "GitHub contents API + чтение файла; runtime не запускался"
+  }
+]
